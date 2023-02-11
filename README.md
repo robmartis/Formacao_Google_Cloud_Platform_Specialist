@@ -2,36 +2,51 @@
 
 Conteúdo
 
-### 🔹 **Introdução ao Google Cloud Platform**
 
-### 🔹 **Gestão de Identidades com Boas Práticas de Segurança**
+### 🔷 Google Cloud Foundations 
+#### 🔹 **Introdução ao Google Cloud Platform**
 
-### 🔹 **Hands On: Provisionando Usuários Cloud Identity**
+#### 🔹 **Gestão de Identidades com Boas Práticas de Segurança**
 
-### 🔹 **Gestão de Recursos na Google Cloud Platform**
+#### 🔹 **Hands On: Provisionando Usuários Cloud Identity**
 
-### 🔹 **Organizando Projetos na Google Cloud Platform**
+#### 🔹 **Gestão de Recursos na Google Cloud Platform**
 
-### 🔹 **Gestão de Acessos e Segurança na Google Cloud Platform**
+#### 🔹 **Organizando Projetos na Google Cloud Platform**
 
-### 🔹 **Redes e Monitoramento na Google Cloud Platform**
+#### 🔹 **Gestão de Acessos e Segurança na Google Cloud Platform**
 
-### 🔹 **Gestão de Dados e Controle de Custos na Google Cloud Platform**
+#### 🔹 **Redes e Monitoramento na Google Cloud Platform**
 
-### 🔹 **Conceituando IAC e CI/CD**
+#### 🔹 **Gestão de Dados e Controle de Custos na Google Cloud Platform**
 
-### 🔹 **Arquiteturas Resilientes na Google Cloud Platform**
+#### 🔹 **Conceituando IAC e CI/CD**
 
-### 🔹 **Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform**
+#### 🔹 **Arquiteturas Resilientes na Google Cloud Platform**
 
-### 🔹 **Definição de Orçamento de Billing na Google Cloud Platform**
+#### 🔹 **Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform**
 
-### 🔹 **Exportação do Billing na Google Cloud Platform**
+#### 🔹 **Definição de Orçamento de Billing na Google Cloud Platform**
 
-### 🔹 **Conhecendo o Painel da Google Cloud Platform**
+#### 🔹 **Exportação do Billing na Google Cloud Platform**
 
-### 🔹 **Personalizando Dashboard e Trocando as Preferências de Idioma**
+#### 🔹 **Conhecendo o Painel da Google Cloud Platform**
 
-### 🔹 **Utilizando o Cloud Shell**
+#### 🔹 **Personalizando Dashboard e Trocando as Preferências de Idioma**
 
-### 📰 **Materiais Complementares - Google Cloud Foundations**
+#### 🔹 **Utilizando o Cloud Shell**
+
+#### 📰 **Materiais Complementares - Google Cloud Foundations**
+...
+
+### 🔷 DevOps na Nuvem - GCP
+
+🔹
+
+### 🔷 Trabalhando com Compute Engine e Containers - GCP
+
+🔹
+
+### 🔷 Google Kubernetes Engine (GCP)
+
+🔹
