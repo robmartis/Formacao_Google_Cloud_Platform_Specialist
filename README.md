@@ -37,7 +37,6 @@ Conteúdo
 #### 🔹 **Utilizando o Cloud Shell**
 
 #### 📰 **Materiais Complementares - Google Cloud Foundations**
-...
 
 ### 🔷 DevOps na Nuvem - GCP
 
