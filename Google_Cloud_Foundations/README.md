@@ -27,24 +27,12 @@
 - **Materiais de apoio**
 - **Certifique seu conhecimento**
 
-<aside>
-📲 Demais Conteúdos
 
-</aside>
+...
 
-[Certificados (1)]()
-
-[Materiais de Apoio]()
-
-
-[Template Curso (1)]()
-
-[Redes e Monitoramento na GCP (1)]()
-
-- **Gestão de Identidades com Boas Práticas de Segurança**
-    - 
-- **Hands On: Provisionando Usuários Cloud Identity**
-- **Gestão de Recursos na Google Cloud Platform**
+- ### **Gestão de Identidades com Boas Práticas de Segurança** 
+- ### **Hands On: Provisionando Usuários Cloud Identity**
+- ### **Gestão de Recursos na Google Cloud Platform**
 - **Organizando Projetos na Google Cloud Platform**
 - **Gestão de Acessos e Segurança na Google Cloud Platform**
 - **Redes e Monitoramento na Google Cloud Platform**
