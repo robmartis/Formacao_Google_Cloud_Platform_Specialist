@@ -1,13 +1,11 @@
-# Formacao_Google_Cloud_Platform_Specialist
+# Formacao Google Cloud Platform Specialist
 
 ## Introdução
 
-<aside>
-💡 Breve descrição sobre a O Google Cloud Platform (GCP)
-
-</aside>
-<br>
-
+  <aside>
+  💡 Breve descrição sobre a O Google Cloud Platform (GCP)
+  </aside> <p><p /><p><p />
+    
 O Google Cloud Platform (GCP) é uma plataforma de computação em nuvem oferecida pelo Google que fornece uma ampla gama de serviços e ferramentas para hospedar, executar, armazenar e gerenciar aplicativos e dados na nuvem. Com o GCP, os usuários podem acessar recursos de computação, armazenamento, banco de dados, rede e análise de dados, além de soluções avançadas de inteligência artificial e aprendizado de máquina.
 
 O GCP permite que as empresas construam e executem aplicativos em várias nuvens, em vários locais, com escalabilidade e segurança. O GCP é projetado para atender a diversos casos de uso, desde pequenas startups até grandes empresas, e é usado por empresas em vários setores, incluindo finanças, saúde, tecnologia e entretenimento.
