@@ -36,7 +36,6 @@
 
 [Materiais de Apoio]()
 
-[**Introdução ao Google Cloud Platform** (1)]()
 
 [Template Curso (1)]()
 
