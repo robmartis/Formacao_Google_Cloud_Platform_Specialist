@@ -3,8 +3,8 @@
 
 <aside>
 📦 Conteúdo
-
 </aside>
+
 ### Introdução ao Google Cloud Platform
 <details>
   <summary><b>Conteúdo do Curso</b></summary>
